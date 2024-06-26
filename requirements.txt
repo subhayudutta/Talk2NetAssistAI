@@ -1,0 +1,9 @@
+duckduckgo-search
+google-generativeai
+streamlit
+lxml_html_clean
+langchain-community
+langchain-google-genai
+pillow
+playwright
+python-dotenv
