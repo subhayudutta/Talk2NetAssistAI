@@ -4,7 +4,7 @@ Talk2NetAssistAI is an advanced chatbot powered by AI, designed to provide insig
 
 ![Talk2NetAssistAI Screenshot](./talk2Net_screenshot.png)
 
-Visit the live app: [Talk2NetAssistAI](https://talk2csv.onrender.com/)
+Visit the live app: [Talk2NetAssistAI](https://talk2netassistai-am4szgyuxvtrnyrujpmvan.streamlit.app/)
 
 ## Features
 
